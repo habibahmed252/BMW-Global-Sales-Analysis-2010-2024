@@ -64,7 +64,8 @@ category.
 
 ### Overview Dashboard
 
-![BMW Overview](<img width="1546" height="858" alt="image" src="https://github.com/user-attachments/assets/4452a09e-0be7-4746-b074-c71e8c8e5e46" />
+![BMW Overview](<img width="1546" height="858" alt="image" src="https://github.com/user-attachments/assets/867a25c6-b0d2-481d-b0e0-a0a5f0129a53" />
+
 )
 
 ### M-Power Analysis
