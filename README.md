@@ -1,5 +1,4 @@
-# BMW-Global-Sales-Analysis-2010-2024
-# BMW Global Sales Analysis \| 2010--2024
+# BMW Global Sales Analysis \| 2010--2024 🚗
 
 An end-to-end **Data Analytics and Business Intelligence project**
 analyzing **50,000 BMW sales records** across vehicle categories,
@@ -50,13 +49,13 @@ overall performance**.
 ## 🎬 Dashboard Demo
 
 [![BMW Power BI Dashboard
-Demo](https://img.youtube.com/vi/WXyIEV82D0w/0.jpg)](https://www.youtube.com/watch?v=WXyIEV82D0w)
+Demo]()
 
 *Click the image above to watch the Power BI dashboard demonstration.*
 
 ------------------------------------------------------------------------
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 
 The Power BI report contains multiple interactive pages covering the
 overall business performance and detailed analysis of each major vehicle
@@ -379,15 +378,6 @@ conditions.
 ``` text
 BMW-Sales-Analysis/
 │
-├── data/
-│   ├── bmw_sales_data.csv
-│   └── bmw_cleaned_sales.csv
-│
-├── notebooks/
-│   └── BMW_Sales_EDA.ipynb
-│
-├── dashboard/
-│   └── BMW_Sales_Dashboard.pbix
 │
 ├── images/
 │   ├── home.png
@@ -425,7 +415,7 @@ BMW-Sales-Analysis/
 
 ------------------------------------------------------------------------
 
-# 🚀 Project Takeaway
+# Project Takeaway
 
 This project demonstrates a complete analytics workflow:
 
@@ -438,8 +428,7 @@ regional demand, customer preferences, and long-term sales trends.
 
 ------------------------------------------------------------------------
 
-# 👩‍💻 Author
+# Author
 
-**Eng. Habiba Ahmed Talaat**
+**Eng. Habiba Ahmed Talat**
 
-Data Analytics & AI Student
