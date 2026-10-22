@@ -1,4 +1,4 @@
-# BMW Global Sales Analysis \| 2010--2024 🚗
+# BMW Global Sales Analysis \| 2010--2024 🏎️
 
 An end-to-end **Data Analytics and Business Intelligence project**
 analyzing **50,000 BMW sales records** across vehicle categories,
