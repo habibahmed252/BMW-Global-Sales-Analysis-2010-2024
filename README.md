@@ -64,25 +64,38 @@ category.
 
 ### Overview Dashboard
 
-![BMW Overview](<img width="1546" height="858" alt="image" src="https://github.com/user-attachments/assets/867a25c6-b0d2-481d-b0e0-a0a5f0129a53" />
+![BMW Overview](<img width="1546" height="858" alt="image" src="https://github.com/user-attachments/assets/1a4267f9-0fce-444f-8b2c-d12228c33494" />
+
 
 )
 
 ### M-Power Analysis
 
-![BMW M-Power Analysis](images/mpower_analysis.png)
+![BMW M-Power Analysis] M3 - M5
+<img width="1564" height="864" alt="image" src="https://github.com/user-attachments/assets/f47d1710-d317-4da6-a2e6-aeb1064b1b36" />
+<img width="1558" height="858" alt="image" src="https://github.com/user-attachments/assets/0c6c7fb5-244c-485a-a0d6-a435adab8496" />
 
-### Sedan Analysis
 
-![BMW Sedan Analysis](images/sedan_analysis.png)
+### Sedan Analysis S3 - S5 - S7
+<img width="1560" height="858" alt="image" src="https://github.com/user-attachments/assets/1b0aa610-1397-4e1f-ad46-80b9f6cf20b4" />
+<img width="1564" height="858" alt="image" src="https://github.com/user-attachments/assets/f8ed88d0-a26e-4f0b-ab8f-014148a394ad" />
+<img width="1564" height="859" alt="image" src="https://github.com/user-attachments/assets/cad09011-ea22-4a66-82cd-6f259fcfb40d" />
 
 ### EV & Hybrid Analysis
 
-![BMW EV & Hybrid Analysis](images/ev_analysis.png)
+![BMW EV & Hybrid Analysis]i3 -i8
+<img width="1561" height="864" alt="image" src="https://github.com/user-attachments/assets/0f4ef932-b3bc-45ee-a7d2-550f4834cab3" />
+<img width="1561" height="859" alt="image" src="https://github.com/user-attachments/assets/977d464b-de47-4ea7-9396-3f1c559237f3" />
+
 
 ### SUV / X-Series Analysis
 
-![BMW SUV / X-Series Analysis](images/suv_analysis.png)
+![BMW SUV / X-Series Analysis] X1 -X3 -X5 -X6
+<img width="1561" height="859" alt="image" src="https://github.com/user-attachments/assets/5f2dd8b4-cb4f-455a-bdd7-769fa28081b6" />
+<img width="1561" height="862" alt="image" src="https://github.com/user-attachments/assets/fa4966f7-db6b-4b1d-ac27-f508c9bf74d8" />
+<img width="1564" height="862" alt="image" src="https://github.com/user-attachments/assets/6b1f24c3-ec19-4cc5-b6e2-953b97a6d4f5" />
+<img width="1561" height="858" alt="image" src="https://github.com/user-attachments/assets/708ba81c-36f0-4deb-9d31-0a5c27454154" />
+
 
 ------------------------------------------------------------------------
 
