@@ -48,8 +48,8 @@ overall performance**.
 
 ## 🎬 Dashboard Demo
 
-[![BMW Power BI Dashboard
-Demo]()
+
+https://youtu.be/hotvauJ9Ehg?si=1szd_N6tc6nJV7__
 
 *Click the image above to watch the Power BI dashboard demonstration.*
 
