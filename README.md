@@ -60,10 +60,12 @@ Demo]()
 The Power BI report contains multiple interactive pages covering the
 overall business performance and detailed analysis of each major vehicle
 category.
+<img width="1527" height="858" alt="image" src="https://github.com/user-attachments/assets/166a797e-e9bb-433e-a999-bd66284ee77a" />
 
 ### Overview Dashboard
 
-![BMW Overview](images/home.png)
+![BMW Overview](<img width="1546" height="858" alt="image" src="https://github.com/user-attachments/assets/4452a09e-0be7-4746-b074-c71e8c8e5e46" />
+)
 
 ### M-Power Analysis
 
